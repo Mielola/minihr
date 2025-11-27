@@ -12,5 +12,7 @@ password : password
 Akun Pegawai :
 username : hoseamatthews
 password : password
+
+
 6. Untuk menjalankan test jalankan "php artisan test"
 7. Jika ingin data pada database terisi otomatis gunakan seeder yang sudah disediakan pada DatabaseSeeder.php lalu uncommet codingan yang ada
